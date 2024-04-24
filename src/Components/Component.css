@@ -1,0 +1,15 @@
+.imag{
+    height: 50px;
+    width: 50px;
+}
+
+.imag-parent{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: rgb(52, 164, 216);
+}
+
+.texture{
+    color: aliceblue;
+}

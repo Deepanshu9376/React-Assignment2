@@ -1,0 +1,10 @@
+.view-component{
+    display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding-left: 10px;
+}
+
+.card-body{
+    margin: .2rem .2rem .2rem .2rem;
+
+}
